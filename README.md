@@ -64,7 +64,13 @@ Providing meaningful market insights
 Simulating a premium dashboard experience
 
 📷 Preview
-(Add screenshots here)
+<img width="1867" height="332" alt="Screenshot 2026-02-21 232947" src="https://github.com/user-attachments/assets/ac1703dc-7a24-4d02-9867-282e8315db8c" />
+<img width="1839" height="332" alt="Screenshot 2026-02-21 232959" src="https://github.com/user-attachments/assets/1542b693-adb6-4125-a0f2-471021ee9411" />
+<img width="1831" height="823" alt="Screenshot 2026-02-21 233008" src="https://github.com/user-attachments/assets/269a1244-b88b-409b-baca-a5dac97f44df" />
+<img width="1829" height="504" alt="Screenshot 2026-02-21 233015" src="https://github.com/user-attachments/assets/329cc366-7d92-4dd1-a1cf-41e6ceb943b9" />
+<img width="1840" height="800" alt="Screenshot 2026-02-21 233026" src="https://github.com/user-attachments/assets/78b9db11-a043-48be-af5d-5c03b2867e3d" />
+
+
 🔮 Future Improvements
 Real AI API integration (OpenAI / LLM)
 Portfolio profit/loss tracker
